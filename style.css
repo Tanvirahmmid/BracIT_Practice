@@ -1,0 +1,127 @@
+/* *{
+    width: auto;
+    height: auto;
+    padding-right: 20px;
+    padding-left: 5px;
+}
+th, td {
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 25px;
+  }
+
+  tr:nth-child(even) {
+    background-color: rgba(150, 212, 212, 0.4);
+  }
+  
+  th:nth-child(even),td:nth-child(even) {
+    background-color: rgba(150, 212, 212, 0.4);
+  }
+  .mycontainer {
+    
+    width:100%;
+    overflow:auto;
+  }
+  .mycontainer{
+    padding: auto;
+    border: 2px;
+    width:33%;
+    float:left;
+    position: relative
+  }
+  .mycontainer h2{
+    font-size: 50px;
+  }
+  .mycontainer p{
+    font-size: 20px;
+  }
+  .grid-container {
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+  }
+
+  .car img{
+    height: 600px;
+    width: 1080px;
+    border-radius: 50px;
+  }
+.nav{
+    display: flex;
+    height: auto;
+    width: auto;
+    background: #777;
+    text-align: left;
+    padding-right: 50px;
+}
+.Form{
+    padding-top: 50px;
+    padding-left: 500px;
+    
+}
+.btn-primary{
+    border-radius: 50px;
+    border: 0px;
+   font-size: 15px;
+   margin-top: 20px;
+   margin-left: 30;
+   padding: 5px;
+   padding-right: 10px;
+}
+.opt{
+    padding-top: 20px;
+    padding-left: 500px;
+}
+.rounded-circle{
+    height: 700px;
+    width: 700px;
+    
+
+}
+
+.rounded-circle{
+    height: 680px;
+    width: 750px;
+    margin-top: 100px;
+    margin-left: 190px;
+
+}
+
+
+  @media(max-width:600px) {
+    *{
+        padding-left: 5px;
+    }
+    .car img{
+        height:300px;
+        width:500px;
+        padding-left: 10px;
+    }
+    .mycontainer h2{
+        font-size: 40px;
+        
+        
+    }
+    .mycontainer p{
+        font-size: 15px;
+        
+    }
+    .Form{
+        padding-top: 40px;
+        padding-left: 150px;
+    }
+    .opt{
+        padding: 15px;
+        padding-left: 200px;
+    }
+    .rounded-circle{
+        height: 320px;
+        width: 350px;
+        margin-top: 30px;
+        margin-left: 90px;
+
+    }
+    .btn btn-primary{
+        height: 120px;
+        width: 440px;
+    }
+  } */
